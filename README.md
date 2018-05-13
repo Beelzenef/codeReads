@@ -10,6 +10,9 @@ sharing the knowledge, share the reads!
 * [Onboarding New Developers](https://dev.to/codemouse92/onboarding-new-developers])
 * [Developer driven development](https://dev.to/isaacandsuch/developer-driven-development)
 * [What is clean code and why you should care?](https://dev.to/cvuorinen/what-is-clean-code-and-why-should-you-care)
+* [When is it right to change the version numer of a project?](https://dev.to/itspugle/when-is-it-right-to-change-the-version-number-of-a-project--145c)
+* [My programming journey: have patience and avoid burnout](https://dev.to/alexgwartney/my-programming-journey-have-patience-and-avoid-burnout-1n81)
+* [3 things I’ve learned as a programmer](https://medium.com/@robert.claudio96/3-things-ive-learned-as-a-programmer-d1d624183d3b)
 
 ### health
 
