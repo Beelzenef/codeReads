@@ -7,7 +7,6 @@ sharing the knowledge, share the reads!
 * [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 * [The best way to learn how to code](https://dev.to/methodx/the-best-way-to-learn-how-to-code-14lk)
 * [Learn to code with live streams from the best developers!](https://dev.to/iriskatastic/learn-to-code-with-live-streams-from-the-best-developers-5fk4)
-* [Onboarding New Developers](https://dev.to/codemouse92/onboarding-new-developers])
 * [Developer driven development](https://dev.to/isaacandsuch/developer-driven-development)
 * [What is clean code and why you should care?](https://dev.to/cvuorinen/what-is-clean-code-and-why-should-you-care)
 * [When is it right to change the version numer of a project?](https://dev.to/itspugle/when-is-it-right-to-change-the-version-number-of-a-project--145c)
@@ -25,6 +24,7 @@ sharing the knowledge, share the reads!
 * [You need to STOP these BAD developer habits NOW](https://hackernoon.com/you-need-to-stop-these-bad-developer-habits-now-468ae877700f)
 * [The unwritten rules for GitHub](https://dev.to/kaydacode/the-unwritten-rules-for-github-by-devdiscuss-742)
 * [What I look for in a junior Android developer](https://dev.to/ditn/what-i-look-for-in-a-junior-android-dev)
+* [Onboarding new developers](https://dev.to/codemouse92/onboarding-new-developers)
 
 ### about functional programming
 
