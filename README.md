@@ -23,6 +23,8 @@ sharing the knowledge, share the reads!
 ### health :+1:
 
 * [3 healthy habits for programmers](https://dev.to/_patrickgod/3-healthy-habits-for-programmers-1dce)
+* [Sleep more, code more](https://dev.to/_patrickgod/sleep-more-code-more-496i)
+* [Creating an ergonomic workspace](https://dev.to/kaydacode/creating-an-ergonomic-workspace)
 
 ### people and networking :busts_in_silhouette:
 
@@ -41,3 +43,4 @@ sharing the knowledge, share the reads!
 * [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
 * [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
 * [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+* [Rx: If the Operators could speak!](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
