@@ -14,6 +14,7 @@ sharing the knowledge, share the reads!
 * [3 things I’ve learned as a programmer](https://medium.com/@robert.claudio96/3-things-ive-learned-as-a-programmer-d1d624183d3b)
 * [How to learn a new programming language or framework](https://hackernoon.com/how-to-learn-a-new-programming-language-faster-dc31ec8367cb)
 * [Psychology of code readability](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
+* [How do you learn from online material? (discussion)](https://dev.to/stefanisg/how-do-you-learn-from-online-material-notes-live-coding-just-listen-3ihb)
 
 ### git, version control and stuff :mag:
 
