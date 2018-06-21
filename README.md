@@ -15,6 +15,7 @@ sharing the knowledge, share the reads!
 * [How to learn a new programming language or framework](https://hackernoon.com/how-to-learn-a-new-programming-language-faster-dc31ec8367cb)
 * [Psychology of code readability](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
 * [How do you learn from online material? (discussion)](https://dev.to/stefanisg/how-do-you-learn-from-online-material-notes-live-coding-just-listen-3ihb)
+* [/r/learnprogramming wiki](https://www.reddit.com/r/learnprogramming/wiki/index)
 
 ### git, version control and stuff :mag:
 
