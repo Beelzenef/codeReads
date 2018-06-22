@@ -27,6 +27,7 @@ sharing the knowledge, share the reads!
 * [3 healthy habits for programmers](https://dev.to/_patrickgod/3-healthy-habits-for-programmers-1dce)
 * [Sleep more, code more](https://dev.to/_patrickgod/sleep-more-code-more-496i)
 * [Creating an ergonomic workspace](https://dev.to/kaydacode/creating-an-ergonomic-workspace)
+* [The sacrifices we make to our health as programmers... your health is more important than your code](https://hackernoon.com/your-health-is-more-important-than-your-code-a9090a5155)
 
 ### people and networking :busts_in_silhouette:
 
