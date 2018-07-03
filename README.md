@@ -19,6 +19,7 @@ sharing the knowledge, share the reads!
 
 ### git, version control and stuff :mag:
 
+* [Git commits: an effective style guide](https://dev.to/pavlosisaris/git-commits-an-effective-style-guide-2kkn)
 * [Git Basics: Adding more changes to your last commit](https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8)
 * [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 
