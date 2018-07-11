@@ -39,6 +39,7 @@ sharing the knowledge, share the reads!
 * [What I look for in a junior Android developer](https://dev.to/ditn/what-i-look-for-in-a-junior-android-dev)
 * [Onboarding new developers](https://dev.to/codemouse92/onboarding-new-developers)
 * [Its OK to ask questions](https://dev.to/mporam/its-okay-to-ask-questions-43hf)
+* [How to build an online presence as a junior developer](https://dev.to/samjarman/how-to-build-an-online-presence-as-a-junior-developer)
 
 ### about functional programming :pencil:
 
