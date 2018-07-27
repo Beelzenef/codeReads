@@ -49,3 +49,7 @@ sharing the knowledge, share the reads!
 * [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
 * [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 * [Rx: If the Operators could speak!](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
+
+### web development :earth_africa:
+
+* [Best practices for modern web development](https://developers.google.com/web/fundamentals/)
