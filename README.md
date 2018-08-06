@@ -16,6 +16,8 @@ sharing the knowledge, share the reads!
 * [Psychology of code readability](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
 * [How do you learn from online material? (discussion)](https://dev.to/stefanisg/how-do-you-learn-from-online-material-notes-live-coding-just-listen-3ihb)
 * [/r/learnprogramming wiki](https://www.reddit.com/r/learnprogramming/wiki/index)
+* [Web development roadmap](
+https://github.com/kamranahmedse/developer-roadmap)
 
 ### git, version control and stuff :mag:
 
