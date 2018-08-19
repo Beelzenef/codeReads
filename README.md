@@ -18,6 +18,7 @@ sharing the knowledge, share the reads!
 * [/r/learnprogramming wiki](https://www.reddit.com/r/learnprogramming/wiki/index)
 * [Web development roadmap](
 https://github.com/kamranahmedse/developer-roadmap)
+* [How to write unmaintainable code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 
 ### git, version control and stuff :mag:
 
