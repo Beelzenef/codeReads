@@ -56,3 +56,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 ### web development :earth_africa:
 
 * [Best practices for modern web development](https://developers.google.com/web/fundamentals/)
+
+### game development :video_game:
+
+* [Introduction to level design for games](https://80.lv/articles/introduction-to-level-design-for-games/)
