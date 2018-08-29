@@ -62,3 +62,4 @@ https://github.com/kamranahmedse/developer-roadmap)
 ### game development :video_game:
 
 * [Introduction to level design for games](https://80.lv/articles/introduction-to-level-design-for-games/)
+* ["Surviving the app store, how to make it as an indie developer" book](https://github.com/amirrajan/survivingtheappstore)
