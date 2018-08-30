@@ -62,4 +62,6 @@ https://github.com/kamranahmedse/developer-roadmap)
 ### game development :video_game:
 
 * [Introduction to level design for games](https://80.lv/articles/introduction-to-level-design-for-games/)
-* ["Surviving the app store, how to make it as an indie developer" book](https://github.com/amirrajan/survivingtheappstore)
+* ["Surviving the app store, how to make it as an indie game developer" book](https://github.com/amirrajan/survivingtheappstore)
+* [The biggest list of game development resources on the web, by David Arcila](https://game-development.zeef.com/david.arcila)
+* [MagicTools, a list of game development resources to make magic happen.](https://github.com/ellisonleao/magictools/blob/master/README.md)
