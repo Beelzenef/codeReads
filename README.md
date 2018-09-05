@@ -20,6 +20,7 @@ sharing the knowledge, share the reads!
 https://github.com/kamranahmedse/developer-roadmap)
 * [How to write unmaintainable code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 * [7 ways to make your web application more accessible](https://codeburst.io/seven-ways-to-make-your-web-app-more-accessible-411a8c716fcb)
+* [What makes a good frontend developer?](https://dev.to/zellwk/what-makes-a-good-frontend-developer-4g4a)
 
 ### git, version control and stuff :mag:
 
