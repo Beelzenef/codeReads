@@ -46,6 +46,10 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Its OK to ask questions](https://dev.to/mporam/its-okay-to-ask-questions-43hf)
 * [How to build an online presence as a junior developer](https://dev.to/samjarman/how-to-build-an-online-presence-as-a-junior-developer)
 
+### user experience :ok_hand:
+
+* [How simplicity in design improves ux](https://www.brintia.com/simplicity-in-ux-design-2/)
+
 ### about functional programming :pencil:
 
 * [What is functional programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
