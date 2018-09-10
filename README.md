@@ -23,11 +23,12 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [What makes a good frontend developer?](https://dev.to/zellwk/what-makes-a-good-frontend-developer-4g4a)
 * [What does a good side project look like?](https://dev.to/theobendixson/what-does-a-good-side-project-look-like-1nof)
 
-### git, version control and stuff :mag:
+### git and version control :mag:
 
 * [Git commits: an effective style guide](https://dev.to/pavlosisaris/git-commits-an-effective-style-guide-2kkn)
 * [Git Basics: Adding more changes to your last commit](https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8)
 * [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
+* [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 
 ### health :+1:
 
