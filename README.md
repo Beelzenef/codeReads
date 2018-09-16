@@ -22,6 +22,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [7 ways to make your web application more accessible](https://codeburst.io/seven-ways-to-make-your-web-app-more-accessible-411a8c716fcb)
 * [What makes a good frontend developer?](https://dev.to/zellwk/what-makes-a-good-frontend-developer-4g4a)
 * [What does a good side project look like?](https://dev.to/theobendixson/what-does-a-good-side-project-look-like-1nof)
+* [Product vision, Agile, and going to the moon](chttps://dev.to/lpasqualis/product-vision-agile-and-going-to-the-moon-1li2)
 
 ### git and version control :mag:
 
