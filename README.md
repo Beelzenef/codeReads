@@ -48,6 +48,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Onboarding new developers](https://dev.to/codemouse92/onboarding-new-developers)
 * [Its OK to ask questions](https://dev.to/mporam/its-okay-to-ask-questions-43hf)
 * [How to build an online presence as a junior developer](https://dev.to/samjarman/how-to-build-an-online-presence-as-a-junior-developer)
+* [10 practices for readable code](https://dev.to/gonedark/10-practices-for-readable-code-143a)
 
 ### user experience :ok_hand:
 
