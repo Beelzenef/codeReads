@@ -22,7 +22,8 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [7 ways to make your web application more accessible](https://codeburst.io/seven-ways-to-make-your-web-app-more-accessible-411a8c716fcb)
 * [What makes a good frontend developer?](https://dev.to/zellwk/what-makes-a-good-frontend-developer-4g4a)
 * [What does a good side project look like?](https://dev.to/theobendixson/what-does-a-good-side-project-look-like-1nof)
-* [Product vision, Agile, and going to the moon](chttps://dev.to/lpasqualis/product-vision-agile-and-going-to-the-moon-1li2)
+* [Product vision, Agile, and going to the moon](https://dev.to/lpasqualis/product-vision-agile-and-going-to-the-moon-1li2)
+* [10 practices for readable code](https://dev.to/gonedark/10-practices-for-readable-code-143a)
 
 ### git and version control :mag:
 
@@ -48,7 +49,6 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Onboarding new developers](https://dev.to/codemouse92/onboarding-new-developers)
 * [Its OK to ask questions](https://dev.to/mporam/its-okay-to-ask-questions-43hf)
 * [How to build an online presence as a junior developer](https://dev.to/samjarman/how-to-build-an-online-presence-as-a-junior-developer)
-* [10 practices for readable code](https://dev.to/gonedark/10-practices-for-readable-code-143a)
 
 ### user experience :ok_hand:
 
