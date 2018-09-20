@@ -69,6 +69,10 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [List of tools useful for web developers and designers](https://devlopr.netlify.com/web-development/productivity/2017/12/17/useful-tools-for-web-developers.html)
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist/blob/master/README.md)
 
+### mobile development :iphone:
+
+* [Introduction to Android Development with Android Studio](https://medium.com/@ejw393/introduction-to-android-development-with-android-studio-f0c4c6b74f44)
+
 ### game development :video_game:
 
 * [Introduction to level design for games](https://80.lv/articles/introduction-to-level-design-for-games/)
