@@ -72,6 +72,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 ### mobile development :iphone:
 
 * [Introduction to Android Development with Android Studio](https://medium.com/@ejw393/introduction-to-android-development-with-android-studio-f0c4c6b74f44)
+* [Improve your Android code through @annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a)
 
 ### game development :video_game:
 
