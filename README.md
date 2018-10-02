@@ -68,6 +68,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Best practices for modern web development](https://developers.google.com/web/fundamentals/)
 * [List of tools useful for web developers and designers](https://devlopr.netlify.com/web-development/productivity/2017/12/17/useful-tools-for-web-developers.html)
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist/blob/master/README.md)
+* [JavaScript and Object-Oriented Programming](https://dev.to/rainerhahnekamp/javascript-and-object-oriented-programming-55k6)
 
 ### mobile development :iphone:
 
