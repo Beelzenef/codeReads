@@ -24,6 +24,8 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [What does a good side project look like?](https://dev.to/theobendixson/what-does-a-good-side-project-look-like-1nof)
 * [Product vision, Agile, and going to the moon](https://dev.to/lpasqualis/product-vision-agile-and-going-to-the-moon-1li2)
 * [10 practices for readable code](https://dev.to/gonedark/10-practices-for-readable-code-143a)
+* [The Scrum Guide(PDF)](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
+
 
 ### git and version control :mag:
 
