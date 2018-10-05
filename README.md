@@ -53,8 +53,9 @@ https://github.com/kamranahmedse/developer-roadmap)
 ### user experience :ok_hand:
 
 * [How simplicity in design improves ux](https://www.brintia.com/simplicity-in-ux-design-2/)
-* [The art of...the notification email](https://blog.knowtify.io/the-art-of-the-notification-email/)
+* [The art of... the notification email](https://blog.knowtify.io/the-art-of-the-notification-email/)
 * [Designing effective notification emails](https://www.campaignmonitor.com/blog/company/2014/01/the-design-of-subscriber-notification-emails/)
+* [5 rules for email notifications](https://www.sparkpost.com/blog/5-rules-email-notifications/)
 
 ### about functional programming :pencil:
 
