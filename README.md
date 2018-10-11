@@ -56,9 +56,13 @@ https://github.com/kamranahmedse/developer-roadmap)
 ### user experience :ok_hand:
 
 * [How simplicity in design improves ux](https://www.brintia.com/simplicity-in-ux-design-2/)
+
+### mailing :email:
+
 * [The art of... the notification email](https://blog.knowtify.io/the-art-of-the-notification-email/)
 * [Designing effective notification emails](https://www.campaignmonitor.com/blog/company/2014/01/the-design-of-subscriber-notification-emails/)
 * [5 rules for email notifications](https://www.sparkpost.com/blog/5-rules-email-notifications/)
+* [Cheat sheet: compatible emails](https://emailmonks.com/email-client-hacks/infographic.html)
 
 ### about functional programming :pencil:
 
@@ -75,12 +79,12 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [List of tools useful for web developers and designers](https://devlopr.netlify.com/web-development/productivity/2017/12/17/useful-tools-for-web-developers.html)
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist/blob/master/README.md)
 * [JavaScript and Object-Oriented Programming](https://dev.to/rainerhahnekamp/javascript-and-object-oriented-programming-55k6)
+* [Media queries demystified: CSS `min-width` and `max-width`](https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/)
 
 ### mobile development :iphone:
 
 * [Introduction to Android Development with Android Studio](https://medium.com/@ejw393/introduction-to-android-development-with-android-studio-f0c4c6b74f44)
 * [Improve your Android code through @annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a)
-* [Media queries demystified: CSS `min-width` and `max-width`](https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/)
 * [Making beautiful apps with Material Design](https://material.io/)
 
 ### game development :video_game:
