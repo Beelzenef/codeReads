@@ -63,6 +63,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Designing effective notification emails](https://www.campaignmonitor.com/blog/company/2014/01/the-design-of-subscriber-notification-emails/)
 * [5 rules for email notifications](https://www.sparkpost.com/blog/5-rules-email-notifications/)
 * [Cheat sheet: compatible emails](https://emailmonks.com/email-client-hacks/infographic.html)
+* [Email client CSS support](https://templates.mailchimp.com/resources/email-client-css-support/)
 
 ### about functional programming :pencil:
 
