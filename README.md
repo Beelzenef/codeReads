@@ -34,6 +34,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Git Basics: Adding more changes to your last commit](https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8)
 * [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 * [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+* [How to contribute to an open source project (hosted in GitHub)](https://dev.to/dimensi0n/how-to-contribute-to-an-open-source-project-5f2c)
 
 ### health :+1:
 
