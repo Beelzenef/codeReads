@@ -58,6 +58,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 ### user experience :ok_hand:
 
 * [How simplicity in design improves ux](https://www.brintia.com/simplicity-in-ux-design-2/)
+* [The future IA of voice user interfaces and what it means for designers](https://medium.com/@khriziakamille/written-as-an-assignment-for-designlabs-ux-academy-this-article-is-a-speculative-look-at-where-ccc723973889)
 
 ### mailing :email:
 
