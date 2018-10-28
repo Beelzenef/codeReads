@@ -90,6 +90,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Introduction to Android Development with Android Studio](https://medium.com/@ejw393/introduction-to-android-development-with-android-studio-f0c4c6b74f44)
 * [Improve your Android code through @annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a)
 * [Making beautiful apps with Material Design](https://material.io/)
+* [Building an Android app with MVVM](https://dev.to/adammc331/building-an-android-app-with-mvvm-539c)
 
 ### game development :video_game:
 
