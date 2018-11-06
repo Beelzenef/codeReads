@@ -26,7 +26,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [10 practices for readable code](https://dev.to/gonedark/10-practices-for-readable-code-143a)
 * [The Scrum Guide (PDF)](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
 * [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve)
-
+* [How to Build (and Test) a RESTful API with Laravel](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
 
 ### git and version control :mag:
 
