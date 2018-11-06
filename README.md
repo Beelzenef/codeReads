@@ -28,6 +28,10 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve)
 * [How to Build (and Test) a RESTful API with Laravel](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
 
+### design :art:
+
+* [A developer’s guide to web design for non-designers](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
+
 ### git and version control :mag:
 
 * [Git commits: an effective style guide](https://dev.to/pavlosisaris/git-commits-an-effective-style-guide-2kkn)
