@@ -12,12 +12,31 @@ If you're making a pull request, please ensure it adheres to the following guide
 2. Check your spelling and grammar.
 3. Choose the corresponding section.
 4. New categories, or improvements to the existing categorization, are welcome.
-5. Use the following format for the commit message: `Add (website) at (category)`.
+5. Use the following format for the commit message: `Add (link description) at (category emoji)`.
 6. Keep descriptions short, sweet and to the point.
-7. Use the following format: `[Name](link)`
+7. Use the following format: `[Name without PascalCase](link)`
+
+> Avoid This Kind of Article Titles, It Would Be Appreciated
+
 8. Any new entry should have meaningful content at the time of the addition to this list
-    — we can't tell whether something is awesome if there is little to see.
-    As a rule of thumb, there should be at least about six months worth of content. 
+
+### Current categories:
+
+* learning :books:
+* design :art:
+* git and version control :mag:
+* health :+1:
+* people and networking :busts_in_silhouette:
+* user experience :ok_hand:
+* mailing :email:
+* about functional programming :pencil:
+* web development :earth_africa:
+* mobile development :iphone:
+* game development :video_game:
+
+Having this, a lovely commit message could be:
+
+> add awesome Unity3D tutorial to :video_game:
     
 ## Code of Conduct
 
