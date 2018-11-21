@@ -60,6 +60,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Its OK to ask questions](https://dev.to/mporam/its-okay-to-ask-questions-43hf)
 * [How to build an online presence as a junior developer](https://dev.to/samjarman/how-to-build-an-online-presence-as-a-junior-developer)
 * [Writing a _killer_ résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)
+* [How to write better job descriptions](https://dev.to/anaulin/how-to-write-better-job-descriptions-19bk)
 
 ### user experience :ok_hand:
 
