@@ -27,6 +27,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [The Scrum Guide (PDF)](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
 * [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve)
 * [How to Build (and Test) a RESTful API with Laravel](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
+* [The DIY guide for learning code, part 1](https://dev.to/kuhnerdm/the-diy-guide-for-learning-to-code---part-1-foundations-3lop)
 
 ### design :art:
 
