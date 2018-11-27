@@ -33,6 +33,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 
 * [A developer’s guide to web design for non-designers](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
 * [4 free tools to mockup webapps](https://blog.prototypr.io/4-best-web-ui-mockup-tools-for-free-89a1513c3fcd)
+* [Design better forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 
 ### git and version control :mag:
 
