@@ -28,6 +28,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve)
 * [How to Build (and Test) a RESTful API with Laravel](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
 * [The DIY guide for learning code, part 1](https://dev.to/kuhnerdm/the-diy-guide-for-learning-to-code---part-1-foundations-3lop)
+* [Helping blind people learn to code](https://medium.freecodecamp.org/helping-blind-people-learn-to-code-c47c68d4a237)
 
 ### design :art:
 
