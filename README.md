@@ -37,6 +37,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Design better forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 * [Before you can master design, you must first master the fundamentals](https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda)
 * [7 basic rules for button design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4)
+* [Building a consistent UI design system](https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f)
 
 ### git and version control :mag:
 
