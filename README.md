@@ -90,6 +90,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
 * [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 * [Rx: If the Operators could speak!](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
+* [I want to learn functional programming: where to start? (discussion)](https://dev.to/vnbrs/i-want-to-learn-functional-programming-where-to-start-3hek)
 
 ### web development :earth_africa:
 
