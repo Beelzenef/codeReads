@@ -99,6 +99,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist/blob/master/README.md)
 * [JavaScript and Object-Oriented Programming](https://dev.to/rainerhahnekamp/javascript-and-object-oriented-programming-55k6)
 * [Media queries demystified: CSS `min-width` and `max-width`](https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/)
+* [Why founders should start with a website, not a mobile app](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/)
 
 ### mobile development :iphone:
 
