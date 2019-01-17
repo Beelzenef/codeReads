@@ -75,6 +75,13 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [How simplicity in design improves ux](https://www.brintia.com/simplicity-in-ux-design-2/)
 * [The future IA of voice user interfaces and what it means for designers](https://medium.com/@khriziakamille/written-as-an-assignment-for-designlabs-ux-academy-this-article-is-a-speculative-look-at-where-ccc723973889)
 
+### clean code :bathtub:
+
+* [C#](https://github.com/thangchung/clean-code-dotnet)
+* [Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [PHP](https://github.com/jupeter/clean-code-php)
+* [Ruby](https://github.com/uohzxela/clean-code-ruby)
+
 ### mailing :email:
 
 * [The art of... the notification email](https://blog.knowtify.io/the-art-of-the-notification-email/)
