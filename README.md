@@ -110,6 +110,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [JavaScript and Object-Oriented Programming](https://dev.to/rainerhahnekamp/javascript-and-object-oriented-programming-55k6)
 * [Media queries demystified: CSS `min-width` and `max-width`](https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/)
 * [Why founders should start with a website, not a mobile app](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/)
+* [Angular + ASPNET Core, step by step](https://www.telerik.com/blogs/creating-an-angular-7-app-with-aspnet-core-step-by-step-guide)
 
 ### mobile development :iphone:
 
