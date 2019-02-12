@@ -118,6 +118,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Improve your Android code through @annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a)
 * [Making beautiful apps with Material Design](https://material.io/)
 * [Building an Android app with MVVM](https://dev.to/adammc331/building-an-android-app-with-mvvm-539c)
+* [Five things to know before building Xamarin apps](https://www.logiticks.com/blog/5-things-to-know-before-building-xamarin-apps)
 
 ### game development :video_game:
 
