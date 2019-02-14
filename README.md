@@ -128,3 +128,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [MagicTools, a list of game development resources to make magic happen.](https://github.com/ellisonleao/magictools/blob/master/README.md)
 * [Designing player’s in-game classic UI](http://crazybitsstudios.com/designing-players-in-game-classic-ui)
 * [A list of books about game design, gamification, game theory and videogames in general](https://docs.google.com/spreadsheets/d/1ILm_eaBEmD3X5mKxn6XN5qT17x-rYyp7whfwVIl-I5s/edit#gid=0)
+
+### async programming :alarm_clock:
+
+* [Asynchronous programming in ASP.NET](https://exceptionnotfound.net/asynchronous-programming-in-asp-net-csharp-ultimate-guide/)
