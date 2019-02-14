@@ -7,32 +7,18 @@ sharing the knowledge, share the reads!
 * [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 * [The best way to learn how to code](https://dev.to/methodx/the-best-way-to-learn-how-to-code-14lk)
 * [Learn to code with live streams from the best developers!](https://dev.to/iriskatastic/learn-to-code-with-live-streams-from-the-best-developers-5fk4)
-* [Developer driven development](https://dev.to/isaacandsuch/developer-driven-development)
-* [What is clean code and why you should care?](https://dev.to/cvuorinen/what-is-clean-code-and-why-should-you-care)
 * [When is it right to change the version numer of a project?](https://dev.to/itspugle/when-is-it-right-to-change-the-version-number-of-a-project--145c)
-* [My programming journey: have patience and avoid burnout](https://dev.to/alexgwartney/my-programming-journey-have-patience-and-avoid-burnout-1n81)
 * [3 things I’ve learned as a programmer](https://medium.com/@robert.claudio96/3-things-ive-learned-as-a-programmer-d1d624183d3b)
 * [How to learn a new programming language or framework](https://hackernoon.com/how-to-learn-a-new-programming-language-faster-dc31ec8367cb)
-* [Psychology of code readability](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
 * [How do you learn from online material? (discussion)](https://dev.to/stefanisg/how-do-you-learn-from-online-material-notes-live-coding-just-listen-3ihb)
 * [/r/learnprogramming wiki](https://www.reddit.com/r/learnprogramming/wiki/index)
-* [Web development roadmap](
-https://github.com/kamranahmedse/developer-roadmap)
-* [How to write unmaintainable code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
-* [7 ways to make your web application more accessible](https://codeburst.io/seven-ways-to-make-your-web-app-more-accessible-411a8c716fcb)
 * [What makes a good frontend developer?](https://dev.to/zellwk/what-makes-a-good-frontend-developer-4g4a)
 * [What does a good side project look like?](https://dev.to/theobendixson/what-does-a-good-side-project-look-like-1nof)
-* [Product vision, Agile, and going to the moon](https://dev.to/lpasqualis/product-vision-agile-and-going-to-the-moon-1li2)
-* [10 practices for readable code](https://dev.to/gonedark/10-practices-for-readable-code-143a)
-* [The Scrum Guide (PDF)](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
-* [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve)
-* [How to Build (and Test) a RESTful API with Laravel](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
 * [The DIY guide for learning code, part 1](https://dev.to/kuhnerdm/the-diy-guide-for-learning-to-code---part-1-foundations-3lop)
-* [Helping blind people learn to code](https://medium.freecodecamp.org/helping-blind-people-learn-to-code-c47c68d4a237)
 * [A beginners guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
-* [Swagger + ASPNET Core](https://medium.com/@bharatdwarkani/integrate-swagger-swashbuckle-in-asp-net-core-web-api-for-automated-help-documentation-6bdadd8b3265)
+* [Helping blind people learn to code](https://medium.freecodecamp.org/helping-blind-people-learn-to-code-c47c68d4a237)
 
-### design :art:
+### design and user experience :art:
 
 * [A developer’s guide to web design for non-designers](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
 * [4 free tools to mockup webapps](https://blog.prototypr.io/4-best-web-ui-mockup-tools-for-free-89a1513c3fcd)
@@ -40,6 +26,9 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Before you can master design, you must first master the fundamentals](https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda)
 * [7 basic rules for button design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4)
 * [Building a consistent UI design system](https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f)
+* [How simplicity in design improves ux](https://www.brintia.com/simplicity-in-ux-design-2/)
+* [The future IA of voice user interfaces and what it means for designers](https://medium.com/@khriziakamille/written-as-an-assignment-for-designlabs-ux-academy-this-article-is-a-speculative-look-at-where-ccc723973889)
+* [7 ways to make your web application more accessible](https://codeburst.io/seven-ways-to-make-your-web-app-more-accessible-411a8c716fcb)
 
 ### git and version control :mag:
 
@@ -58,6 +47,7 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Creating an ergonomic workspace](https://dev.to/kaydacode/creating-an-ergonomic-workspace)
 * [The sacrifices we make to our health as programmers... your health is more important than your code](https://hackernoon.com/your-health-is-more-important-than-your-code-a9090a5155)
 * [Does programming professionalise anxiety?](https://dev.to/daraghjbyrne/does-programming-professionalise-anxiety-5e3i)
+* [My programming journey: have patience and avoid burnout](https://dev.to/alexgwartney/my-programming-journey-have-patience-and-avoid-burnout-1n81)
 
 ### people and networking :busts_in_silhouette:
 
@@ -71,14 +61,17 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [How to build an online presence as a junior developer](https://dev.to/samjarman/how-to-build-an-online-presence-as-a-junior-developer)
 * [Writing a _killer_ résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)
 * [How to write better job descriptions](https://dev.to/anaulin/how-to-write-better-job-descriptions-19bk)
-
-### user experience :ok_hand:
-
-* [How simplicity in design improves ux](https://www.brintia.com/simplicity-in-ux-design-2/)
-* [The future IA of voice user interfaces and what it means for designers](https://medium.com/@khriziakamille/written-as-an-assignment-for-designlabs-ux-academy-this-article-is-a-speculative-look-at-where-ccc723973889)
+* [Product vision, Agile, and going to the moon](https://dev.to/lpasqualis/product-vision-agile-and-going-to-the-moon-1li2)
+* [The Scrum Guide (PDF)](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
+* [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve)
+* [Developer driven development](https://dev.to/isaacandsuch/developer-driven-development)
 
 ### clean code :bathtub:
 
+* [How to write unmaintainable code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
+* [10 practices for readable code](https://dev.to/gonedark/10-practices-for-readable-code-143a)
+* [What is clean code and why you should care?](https://dev.to/cvuorinen/what-is-clean-code-and-why-should-you-care)
+* [Psychology of code readability](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
 * [C#](https://github.com/thangchung/clean-code-dotnet)
 * [Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [PHP](https://github.com/jupeter/clean-code-php)
@@ -92,16 +85,6 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Cheat sheet: compatible emails](https://emailmonks.com/email-client-hacks/infographic.html)
 * [Email client CSS support](https://templates.mailchimp.com/resources/email-client-css-support/)
 
-### about functional programming :pencil:
-
-* [What is functional programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-* [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
-* [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
-* [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
-* [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
-* [Rx: If the Operators could speak!](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
-* [I want to learn functional programming: where to start? (discussion)](https://dev.to/vnbrs/i-want-to-learn-functional-programming-where-to-start-3hek)
-
 ### web development :earth_africa:
 
 * [Best practices for modern web development](https://developers.google.com/web/fundamentals/)
@@ -111,6 +94,9 @@ https://github.com/kamranahmedse/developer-roadmap)
 * [Media queries demystified: CSS `min-width` and `max-width`](https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/)
 * [Why founders should start with a website, not a mobile app](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/)
 * [Angular + ASPNET Core, step by step](https://www.telerik.com/blogs/creating-an-angular-7-app-with-aspnet-core-step-by-step-guide)
+* [Web development roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [How to Build (and Test) a RESTful API with Laravel](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
+* [Swagger + ASPNET Core](https://medium.com/@bharatdwarkani/integrate-swagger-swashbuckle-in-asp-net-core-web-api-for-automated-help-documentation-6bdadd8b3265)
 
 ### mobile development :iphone:
 
@@ -132,3 +118,13 @@ https://github.com/kamranahmedse/developer-roadmap)
 ### async programming :alarm_clock:
 
 * [Asynchronous programming in ASP.NET](https://exceptionnotfound.net/asynchronous-programming-in-asp-net-csharp-ultimate-guide/)
+
+### about functional programming :pencil:
+
+* [What is functional programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+* [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+* [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
+* [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
+* [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+* [Rx: If the Operators could speak!](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
+* [I want to learn functional programming: where to start? (discussion)](https://dev.to/vnbrs/i-want-to-learn-functional-programming-where-to-start-3hek)
