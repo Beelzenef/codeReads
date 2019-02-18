@@ -97,6 +97,7 @@ sharing the knowledge, share the reads!
 * [Web development roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [How to Build (and Test) a RESTful API with Laravel](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
 * [Swagger + ASPNET Core](https://medium.com/@bharatdwarkani/integrate-swagger-swashbuckle-in-asp-net-core-web-api-for-automated-help-documentation-6bdadd8b3265)
+* [Add a blog to your Angular website using Markdown files](https://dev.to/daviddalbusco/add-a-blog-to-your-angular-website-using-markdown-files-go7)
 
 ### mobile development :iphone:
 
