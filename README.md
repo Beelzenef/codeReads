@@ -65,6 +65,7 @@ sharing the knowledge, share the reads!
 * [The Scrum Guide (PDF)](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
 * [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve)
 * [Developer driven development](https://dev.to/isaacandsuch/developer-driven-development)
+* [Sharing code examples with Carbon](https://dev.to/daveskull81/sharing-code-examples-with-carbon-4fp0)
 
 ### clean code :bathtub:
 
