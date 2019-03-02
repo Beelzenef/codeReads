@@ -32,6 +32,7 @@ sharing the knowledge, share the reads!
 
 ### git and version control :mag:
 
+* [Developers tools: version control](https://dev.to/wuz/developer-tools-version-control-2mkk)
 * [Git commits: an effective style guide](https://dev.to/pavlosisaris/git-commits-an-effective-style-guide-2kkn)
 * [Git Basics: Adding more changes to your last commit](https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8)
 * [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
