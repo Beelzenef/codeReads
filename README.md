@@ -79,6 +79,10 @@ sharing the knowledge, share the reads!
 * [PHP](https://github.com/jupeter/clean-code-php)
 * [Ruby](https://github.com/uohzxela/clean-code-ruby)
 
+### security :lock:
+
+* [ASP.NET Core Claims-based Security](https://www.benday.com/2018/05/21/walkthrough-part-5-asp-net-core-claims-based-security-using-azure-app-authentication-the-auth-me-service-endpoint/)
+
 ### mailing :email:
 
 * [The art of... the notification email](https://blog.knowtify.io/the-art-of-the-notification-email/)
