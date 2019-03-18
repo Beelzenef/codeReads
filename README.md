@@ -17,6 +17,7 @@ sharing the knowledge, share the reads!
 * [The DIY guide for learning code, part 1](https://dev.to/kuhnerdm/the-diy-guide-for-learning-to-code---part-1-foundations-3lop)
 * [A beginners guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
 * [Helping blind people learn to code](https://medium.freecodecamp.org/helping-blind-people-learn-to-code-c47c68d4a237)
+* [How I started learning to code: the resources I’ve used in the first three months](https://medium.freecodecamp.org/learning-to-code-in-2019-the-first-3-months-b3c843204bb7)
 
 ### design and user experience :art:
 
