@@ -106,6 +106,7 @@ sharing the knowledge, share the reads!
 * [Swagger + ASPNET Core](https://medium.com/@bharatdwarkani/integrate-swagger-swashbuckle-in-asp-net-core-web-api-for-automated-help-documentation-6bdadd8b3265)
 * [Add a blog to your Angular website using Markdown files](https://dev.to/daviddalbusco/add-a-blog-to-your-angular-website-using-markdown-files-go7)
 * [Build a real world beautiful web app with Angular 6 (ultimate guide, part 1)](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
+* [Redux, Angular Style: ngrx/store](https://blog.usejournal.com/redux-angular-style-ngrx-store-b2876280708e)
 
 ### mobile development :iphone:
 
