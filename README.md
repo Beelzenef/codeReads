@@ -30,6 +30,7 @@ sharing the knowledge, share the reads!
 * [How simplicity in design improves ux](https://www.brintia.com/simplicity-in-ux-design-2/)
 * [The future IA of voice user interfaces and what it means for designers](https://medium.com/@khriziakamille/written-as-an-assignment-for-designlabs-ux-academy-this-article-is-a-speculative-look-at-where-ccc723973889)
 * [7 ways to make your web application more accessible](https://codeburst.io/seven-ways-to-make-your-web-app-more-accessible-411a8c716fcb)
+* [Solid versus outline icons: which are faster to recognize?](https://medium.com/@uxmovement/solid-vs-outline-icons-which-are-faster-to-recognize-9bb0fc24821f)
 
 ### git and version control :mag:
 
