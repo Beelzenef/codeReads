@@ -19,6 +19,10 @@ sharing the knowledge, share the reads!
 * [Helping blind people learn to code](https://medium.freecodecamp.org/helping-blind-people-learn-to-code-c47c68d4a237)
 * [How I started learning to code: the resources I’ve used in the first three months](https://medium.freecodecamp.org/learning-to-code-in-2019-the-first-3-months-b3c843204bb7)
 
+### sharing :electric_plug:
+
+* [How I write online articles](https://dev.to/azure/how-i-write-online-articles-1lfb)
+
 ### design and user experience :art:
 
 * [A developer’s guide to web design for non-designers](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
