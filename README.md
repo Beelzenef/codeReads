@@ -46,6 +46,7 @@ sharing the knowledge, share the reads!
 * [How to contribute to an open source project (hosted in GitHub)](https://dev.to/dimensi0n/how-to-contribute-to-an-open-source-project-5f2c)
 * [Create clean repos](https://blog.intracto.com/how-to-save-a-puppy-by-creating-a-clean-git-repo)
 * [Basic commands to start with Git and GitHub](https://dev.to/umeshdhakar/basic-commands-to-start-git-and-github-4157)
+* [Git commit best practices (GitHub)](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices)
 
 ### health :+1:
 
