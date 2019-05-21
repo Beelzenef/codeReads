@@ -23,6 +23,10 @@ sharing the knowledge, share the reads!
 
 * [How I write online articles](https://dev.to/azure/how-i-write-online-articles-1lfb)
 
+### architecture and design :paintbrush:
+
+* [Entity Relationship Diagrams explained by Sonic the Hedgehog](https://dev.to/helenanders26/entity-relationship-diagrams-explained-by-sonic-the-hedgehog-1m68)
+
 ### design and user experience :art:
 
 * [A developer’s guide to web design for non-designers](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
