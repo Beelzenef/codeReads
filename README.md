@@ -78,6 +78,7 @@ sharing the knowledge, share the reads!
 * [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve)
 * [Developer driven development](https://dev.to/isaacandsuch/developer-driven-development)
 * [Sharing code examples with Carbon](https://dev.to/daveskull81/sharing-code-examples-with-carbon-4fp0)
+* [Looking for Your First Dev Role: Advice for Young Devs by a Young Dev](https://dev.to/torianne02/looking-for-your-first-dev-role-advice-for-young-devs-by-a-young-dev-h2a)
 
 ### clean code :bathtub:
 
