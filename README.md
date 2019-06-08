@@ -95,6 +95,10 @@ sharing the knowledge, share the reads!
 
 * [ASP.NET Core Claims-based Security](https://www.benday.com/2018/05/21/walkthrough-part-5-asp-net-core-claims-based-security-using-azure-app-authentication-the-auth-me-service-endpoint/)
 
+### tools :wrench:
+
+* [10 tips and tricks in using Visual Studio](https://dev.to/syncfusion/10-tips-and-tricks-in-using-visual-studio-for-junior-developers-3379)
+
 ### mailing :email:
 
 * [The art of... the notification email](https://blog.knowtify.io/the-art-of-the-notification-email/)
