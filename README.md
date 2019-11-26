@@ -26,6 +26,7 @@ sharing the knowledge, share the reads!
 ### architecture and design :paintbrush:
 
 * [Entity Relationship Diagrams explained by Sonic the Hedgehog](https://dev.to/helenanders26/entity-relationship-diagrams-explained-by-sonic-the-hedgehog-1m68)
+* [The many meanings of message validation](https://devkimchi.com/2019/10/09/many-meanings-of-message-validation/)
 
 ### design and user experience :art:
 
