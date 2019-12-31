@@ -18,6 +18,7 @@ sharing the knowledge, share the reads!
 * [A beginners guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
 * [Helping blind people learn to code](https://medium.freecodecamp.org/helping-blind-people-learn-to-code-c47c68d4a237)
 * [How I started learning to code: the resources I’ve used in the first three months](https://medium.freecodecamp.org/learning-to-code-in-2019-the-first-3-months-b3c843204bb7)
+* [To be a great programmer: mindset and learning strategy](https://dev.to/snj/to-be-a-great-programmer-mindset-and-learning-strategy-n3j)
 
 ### sharing :electric_plug:
 
