@@ -23,6 +23,7 @@ sharing the knowledge, share the reads!
 ### sharing :electric_plug:
 
 * [How I write online articles](https://dev.to/azure/how-i-write-online-articles-1lfb)
+* [Thinking on paper](https://dev.to/steelwolf180/thinking-on-paper-3b6l)
 
 ### architecture and design :paintbrush:
 
