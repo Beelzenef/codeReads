@@ -24,6 +24,7 @@ sharing the knowledge, share the reads!
 
 * [How I write online articles](https://dev.to/azure/how-i-write-online-articles-1lfb)
 * [Thinking on paper](https://dev.to/steelwolf180/thinking-on-paper-3b6l)
+* [How to make interesting presentations for software projects](https://dev.to/n_mehlhorn/how-to-make-interesting-presentations-for-software-projects-1n1m)
 
 ### architecture and design :paintbrush:
 
