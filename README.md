@@ -95,6 +95,8 @@ sharing the knowledge, share the reads!
 * [Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [PHP](https://github.com/jupeter/clean-code-php)
 * [Ruby](https://github.com/uohzxela/clean-code-ruby)
+* [30+ PHP Best Practices for Beginners](https://code.tutsplus.com/tutorials/30-php-best-practices-for-beginners--net-6194)
+* [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
 
 ### security :lock:
 
